@@ -33,4 +33,4 @@ We are required to model the demand for shared bikes with the available independ
 
 
 ## Contact
-Created by [@SaiViswanadhKintali] - feel free to contact me!
+Created by [@Sanskriti29] - feel free to contact me!
